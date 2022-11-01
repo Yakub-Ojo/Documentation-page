@@ -1,0 +1,25 @@
+#main-header{
+    position: fixed;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 100%;
+    max-width: 300px;
+}
+#navbar{
+    height: 100%;
+    border-right:solid 2px #222 ;
+}
+#navbar>header{
+    font-size: 1.8em;
+    text-align: center;
+    overflow: auto;
+    padding: ;
+}
+#main-header#navbar ul li a{
+    display: block;
+    text-align: left;
+    padding: ;
+    cursor: pointer;
+    color: #222;ssss
+    border-bottom: solid 3px #222;
+}
