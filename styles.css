@@ -130,7 +130,6 @@ body {
     padding: 2rem 0 0;
   }
   
-  /* mobile-devices */
   @media (max-width: 600px) {
     #main-header {
       position: absolute;
